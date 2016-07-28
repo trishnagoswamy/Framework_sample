@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression" failures="0" tests="1" time="22.428" errors="0">
+  <properties/>
+  <testcase name="RtsLogin" time="2.801" classname="com.dt.rts.ca.Regression.HomePageLogin"/>
+</testsuite>

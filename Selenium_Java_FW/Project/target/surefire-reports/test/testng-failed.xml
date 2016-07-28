@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="0" name="Failed suite [test]" junit="false" parallel="false" annotations="JDK">
+  <test name="Regression(failed)" junit="false" parallel="false" annotations="JDK">
+    <classes>
+      <class name="com.dt.rts.ca.Regression.HomePageLogin">
+        <methods>
+          <include name="RtsLogin"/>
+          <include name="setUp"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,16 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="test">
+    <groups>
+    </groups>
+    <test name="Regression">
+      <class name="com.dt.rts.ca.Regression.HomePageLogin">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="19619" started-at="2015-10-27T20:11:55Z" finished-at="2015-10-27T20:12:15Z">
+        </test-method>
+        <test-method status="PASS" signature="RtsLogin()" name="RtsLogin" duration-ms="2801" started-at="2015-10-27T20:12:15Z" finished-at="2015-10-27T20:12:17Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
